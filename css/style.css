@@ -1,0 +1,29 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background: gray;
+}
+.Menu_bar{
+    
+}
+.Menu_bar ul{
+  
+}
+.Menu_bar ul li{
+    display: inline;
+    padding: 15px 25px;
+    background: mediumaquamarine;
+    margin: 8px;
+    text-decoration: none;
+    
+}
+.Menu_bar ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
+.Menu_bar ul li a:hover{
+    background : black;
+    color: white;
+}
+
